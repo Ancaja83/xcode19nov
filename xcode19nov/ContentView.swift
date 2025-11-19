@@ -16,7 +16,17 @@ struct ContentView: View {
             Text("Kiwi")
             Text("Hej hej hej")
             Text("Mera text")
+            
+            VStack {
+                Text("Ny funktion")
+            }
+            .padding()
+            .background(Color.cyan)
+            
+            Text("mer nya saker")
         }
+        
+        
         .padding()
     }
 }
