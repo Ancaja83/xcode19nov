@@ -24,6 +24,8 @@ struct ContentView: View {
             .background(Color.cyan)
             
             Text("mer nya saker")
+            
+            Text("nu är vi klara")
         }
         
         
